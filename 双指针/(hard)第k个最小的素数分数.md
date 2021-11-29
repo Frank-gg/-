@@ -75,7 +75,7 @@ class Solution {
 
 ### 多路归并
 
-![image-20211129112750888](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211129112750888.png)
+<img src="assets/image-20211129112750888.png" alt="image-20210725130537815" style="zoom:80%;" />
 
 ```java
 class Solution {
@@ -101,11 +101,12 @@ class Solution {
 }
 ```
 
-![image-20211129113129562](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211129113129562.png)
+<img src="assets/image-20211129113129562.png" alt="image-20210725130537815" style="zoom:80%;" />
 
 ### 二分 + 双指针
 
-![image-20211129112955798](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211129112955798.png)
+<img src="assets/image-20211129112955798.png" alt="image-20210725130537815" style="zoom:80%;" />
+
 
 ```java
 class Solution {
@@ -145,5 +146,5 @@ class Solution {
 }
 ```
 
-![image-20211129113146448](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20211129113146448.png)
+<img src="assets/image-20211129113146448.png" alt="image-20210725130537815" style="zoom:80%;" />
 
